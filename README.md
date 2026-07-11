@@ -1,5 +1,5 @@
 i do stats & ml.  
 feel free to reach out.
 
-blog: [jungbinary.github.io](https://jungbinary.github.io)  
-taste: [jungbinary.github.io/taste](https://jungbinary.github.io/taste)
+for more, check out my pages.
+[[blog](https://jungbinary.github.io)] [[personal](https://jungbinary.github.io/taste)]
